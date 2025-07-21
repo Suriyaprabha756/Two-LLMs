@@ -1,0 +1,10 @@
+llm_config:
+  codegen_llm:
+    params:
+      model_name: gpt-4o-mini
+      temperature: 0.0
+      api_key: ""
+    system_prompt: src/prompts/table_selector.txt
+
+
+dataset_path: "data/W48Tables_Cleaned.xlsx"
