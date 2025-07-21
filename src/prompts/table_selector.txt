@@ -41,3 +41,12 @@ Notes: The question compares decision roles among likely switchers. "LIKELY SWIT
 **Select only the columns that directly measure the behavior, attitude, or perception described in the question.**
 **Include demographic columns (e.g., age, gender, income) only if they are the explicit comparison groups.**
 **Do not include extra columns — even if they seem relevant — unless they are essential to answering the specific question.**
+
+User Question:  
+{{question}}
+
+Tables:  
+{{metadata}}
+
+Answer:
+
